@@ -1,1 +1,3 @@
-![espot](https://github.com/user-attachments/assets/dccc40f5-f1c0-4b23-8f6c-bdf4486836a6)
+# ESPot: ESP32-C3 based demo smart pot
+
+<img src="https://github.com/user-attachments/assets/5777ba83-79eb-4097-9217-79bb79c130ec" alt="ESPot logo" style="width:50%; height:auto;">
